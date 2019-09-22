@@ -5,3 +5,4 @@
 5. There are currently no code examples.
 6. Not much programming experience.
 7. Currently studying for a master's degree in IT-developer, also took courses at codeacademy.com, learn.javascript.com.
+8. English - b1+.
